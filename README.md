@@ -30,6 +30,6 @@ Tags:
 
 Credits:
 
-This project was created with passion by Adarsh Raj and is open-source under the [License Type]. Feel free to contribute, suggest improvements, or report issues on the GitHub repository.
+This project was created with passion by Adarsh Raj and is open-source under the MIT License. Feel free to contribute, suggest improvements, or report issues on the GitHub repository.
 
 Let the guessing begin! 🎩🔤
